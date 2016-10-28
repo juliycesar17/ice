@@ -1,1 +1,1 @@
-# ice
+# ice cream shop example
