@@ -1,4 +1,5 @@
 # this is example of  using MVC pattern in JAVASCRIPT
+# as base html template - w3schools.com template because of making emphasize on JAVASCRIPT developmen 
 # using MySql for storing data on server (many-to-many relation) : 
 # different enterprises make different kinds of icecream and, respectively - different kinds of icecreams are submitted by different 
 # enterprises
