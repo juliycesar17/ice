@@ -1,5 +1,4 @@
 # this is example of  using MVC pattern in JAVASCRIPT for building SPA 
-# to explore application -see EX.ZIP
 # as base html template - w3schools.com template because of making emphasize on JAVASCRIPT development 
 # using MySql for storing data on server (many-to-many relation) : 
 # different enterprises make different kinds of icecream and, respectively - different kinds of icecreams are submitted by different 
